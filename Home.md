@@ -1,18 +1,18 @@
 Welcome to the ESP8266 Deauther wiki!
 
-Pick an installation method 
+**Pick an installation method**
 * [Install 1 (easy)](https://github.com/spacehuhn/esp8266_deauther/wiki/Install-1)
 
 OR
 
 * [Install 2 (harder)](https://github.com/spacehuhn/esp8266_deauther/wiki/Install-2)
 
-Case - _Coming soon!_
+**Case** - _Coming soon!_
 
-[How to use](https://github.com/spacehuhn/esp8266_deauther/wiki/How-to-use)
+[**How to use**](https://github.com/spacehuhn/esp8266_deauther/wiki/How-to-use)
 
-[OLED display](https://github.com/spacehuhn/esp8266_deauther/wiki/OLED-display)
+[**OLED display**](https://github.com/spacehuhn/esp8266_deauther/wiki/OLED-display)
 
-[FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ)
+[**FAQ**](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ)
 
-[Videos](https://github.com/spacehuhn/esp8266_deauther/wiki/Videos)
+[**Videos**](https://github.com/spacehuhn/esp8266_deauther/wiki/Videos)
