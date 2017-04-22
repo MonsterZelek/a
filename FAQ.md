@@ -12,6 +12,16 @@ Plug your device into your computer and log the device's output. It will display
 
 Make sure you have extracted the ZIP file that you have downloaded from this GitHub page
 
+**How do I edit the HTML CSS and JS?**
+
+**1** open minifier.html  
+**2** paste the html code in the upper textfield  
+**3** click on `minifiy + byte-ify`  
+**4** copy the results  
+**5** go to data.h and replace the array (of the changed html file) with the copied bytes  
+
+now compile and upload your new sketch :)
+
 **Could it auto-deauth all APs in the range?**
 
 Yes, but I will not implement this 'feature' for ethical and legal reasons.
