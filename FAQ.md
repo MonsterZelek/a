@@ -1,5 +1,17 @@
 ## FAQ
 
+**I can't find any WiFi networks!?!?**
+
+Make sure there are 2.4ghz networks in your area. This device will not find any 5ghz devices
+
+**I can't remember my WiFi name or password**
+
+Plug your device into your computer and log the device's output. It will display the SSID name along with the password
+
+**I am getting errors when trying to with the arduino software?**
+
+Make sure you have extracted the ZIP file that you have downloaded from this GitHub page
+
 **Could it auto-deauth all APs in the range?**
 
 Yes, but I will not implement this 'feature' for ethical and legal reasons.
