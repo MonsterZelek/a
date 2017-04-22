@@ -9,3 +9,5 @@ Case - _Coming soon!_
 [How to use](https://github.com/spacehuhn/esp8266_deauther/wiki/How-to-use)
 
 [FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ)
+
+[Videos](https://github.com/spacehuhn/esp8266_deauther/wiki/Videos)
