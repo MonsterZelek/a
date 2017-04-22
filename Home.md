@@ -1,6 +1,9 @@
 Welcome to the ESP8266 Deauther wiki!
 
-[Install](https://github.com/spacehuhn/esp8266_deauther/wiki/Install)
+Pick an installation method 
+[Install 1 (easy)](https://github.com/spacehuhn/esp8266_deauther/wiki/Install-1)
+OR
+[Install 2 (harder)](https://github.com/spacehuhn/esp8266_deauther/wiki/Install-2)
 
 Case - _Coming soon!_
 
