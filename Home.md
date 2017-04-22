@@ -4,8 +4,8 @@ Welcome to the ESP8266 Deauther wiki!
 
 Case - _Coming soon!_
 
-OLED display
+[OLED display](https://github.com/spacehuhn/esp8266_deauther/wiki/OLED-display)
 
-How to use
+[How to use](https://github.com/spacehuhn/esp8266_deauther/wiki/How-to-use)
 
 FAQ
