@@ -8,4 +8,4 @@ Case - _Coming soon!_
 
 [How to use](https://github.com/spacehuhn/esp8266_deauther/wiki/How-to-use)
 
-FAQ
+[FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ)
