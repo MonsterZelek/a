@@ -1,4 +1,4 @@
-## Installation
+## Installation Option 2
 
 The only thing you will need is a computer and an ESP8266.  
 
