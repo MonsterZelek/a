@@ -5,14 +5,13 @@ Pick an installation method
 
 OR
 
-
 * [Install 2 (harder)](https://github.com/spacehuhn/esp8266_deauther/wiki/Install-2)
 
 Case - _Coming soon!_
 
-[OLED display](https://github.com/spacehuhn/esp8266_deauther/wiki/OLED-display)
-
 [How to use](https://github.com/spacehuhn/esp8266_deauther/wiki/How-to-use)
+
+[OLED display](https://github.com/spacehuhn/esp8266_deauther/wiki/OLED-display)
 
 [FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ)
 
