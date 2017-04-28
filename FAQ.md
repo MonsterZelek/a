@@ -6,7 +6,7 @@ Make sure there are 2.4ghz networks in your area. This device will not find any 
 
 **I can't remember my WiFi name or password**
 
-Plug your device into your computer and log the device's output. It will display the SSID name along with the password
+Plug your device into your computer and open the serial monitor of Arduino. Set the baudrate to 115200 and press reset on your board. It will display the SSID name along with the password.
 
 **I am getting errors when trying to with the arduino software?**
 
