@@ -1,4 +1,4 @@
-Welcome to the ESP8266 Deauther Wiki!
+# Welcome to the ESP8266 Deauther Wiki!
 
 [**FAQ**](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ)
 
