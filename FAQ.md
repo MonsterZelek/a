@@ -61,4 +61,11 @@ Also note that some devices reconnect faster than its deauthenticating them, so 
 
 Have a look at this project: https://github.com/schinfo/EEPROM-Cleaner  
 
+**What is the Probe-Request attack for?**
+
+Probe-Requests are packets sent out by unconnected Wi-Fi devices to actively search for known networks.  
+There are commercial trackers available to scan for these packets and analyse them.
+Some shops use such systems to get more information about their costumers.  
+The Probe-Request attack is a great way to confuse these systems.
+
 ### If you have other questions or problems with the ESP8266 you can also check out the official [community forum](http://www.esp8266.com/).
