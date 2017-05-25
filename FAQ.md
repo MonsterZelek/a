@@ -10,7 +10,7 @@ Plug your device into your computer and open the serial monitor of Arduino. Set 
 
 **How do I reset it?**
 
-Method 1: Connect pin 4 (D2 on the NodeMCU) to GND and plug the device in.
+Method 1: Connect pin 4 (D2 on the NodeMCU) to GND and plug the device in.  
 Method 2: Connect your device, open up the serial monitor in Arduino, type in "reset" and click send.  
 
 **I am getting errors when trying to with the Arduino**
