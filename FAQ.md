@@ -27,7 +27,7 @@ Also follow the steps carefully and make sure to select the right settings in th
 **5** Copy the results from the right textfield  
 **6** Go to data.h and replace the array of the changed file with the copied bytes  
 
-now compile and upload your new sketch :)
+Now compile and upload your new sketch :)
 
 **Could it auto-deauth all APs in the range?**
 
