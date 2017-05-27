@@ -55,8 +55,8 @@ That might happen because of an channel change of the ESPs access point. When yo
 **Deauth attack won't work**
 
 If you used Arduino to flash it and you see 0 pkts/s on the website then you've made a mistake. Check that you have followed the the installation steps correctly and that the right SDK installed, it must be version 2.0.0!
-If it can send packets but your target doesn't loose its connection, then the Wi-Fi router either uses [802.11w](#how-to-protect-against-it) and it's protected against such attacks, or it communicates on the 5GHz band, which the ESP8266 doesn't support because of its 2.4GHz antenna.
-Also note that some devices reconnect faster than its deauthenticating them, so it will not block the connection completly, but slowing it down.  
+If it can send packets but your target doesn't loose its connection, then the Wi-Fi router either uses [802.11w](#how-to-protect-against-it) and it's protected against such attacks, or it communicates on the 5GHz band, which the ESP8266 doesn't support.
+Also note that some devices reconnect faster than it's deauthenticating them, so it will not block the connection completly, but slowing it down.  
 
 **How do I clear the EPROM**
 
