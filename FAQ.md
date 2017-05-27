@@ -1,5 +1,3 @@
-## FAQ
-
 **I can't find any WiFi networks**
 
 Make sure there are 2.4ghz networks in your area. This device will not find any 5ghz networks!  
