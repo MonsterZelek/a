@@ -56,7 +56,7 @@ If you used Arduino to flash it and you see 0 pkts/s on the website then you've 
 If it can send packets but your target doesn't loose its connection, then the Wi-Fi router either uses [802.11w](#how-to-protect-against-it) and it's protected against such attacks, or it communicates on the 5GHz band, which the ESP8266 doesn't support.
 Also note that some devices reconnect faster than it's deauthenticating them, so it will not block the connection completly, but slowing it down.  
 
-**How do I clear the EPROM**
+**How do I clear the EEPROM**
 
 Have a look at this project: https://github.com/schinfo/EEPROM-Cleaner  
 
