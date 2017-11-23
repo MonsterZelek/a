@@ -11,7 +11,7 @@ Plug your device into your computer and open the serial monitor of Arduino. Set 
 Method 1: Connect pin 4 (D2 on the NodeMCU) to GND and plug the device in.  
 Method 2: Connect your device, open up the serial monitor in Arduino, change the baudrate to 115200, type in "reset" and click send.  
 
-**I am getting errors when trying to with the Arduino**
+**I am getting errors when trying to compile with the Arduino**
 
 Make sure you have extracted the ZIP file that you have downloaded from this GitHub page.
 Also follow the steps carefully and make sure to select the right settings in the board selection.  
