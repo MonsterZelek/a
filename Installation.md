@@ -1,5 +1,5 @@
 # Installation
-- [Video Tutorial](#video-tutorial)
+- [Tutorials](#tutorials)
 - [Flashing bin file](#flashing-the-firmware-bin-file)
   - [Esptool](#esptool)
   - [Esptool-gui](#esptool-gui)
@@ -17,8 +17,13 @@
     - [Baud Rate](#baud-rate)
     - [Flash Size](#flash-size)
 
-## Video Tutorial
-[![Video Tutorial on how to install deauther 2.0](https://img.youtube.com/vi/wKhSlIYQ5jA/0.jpg)](https://www.youtube.com/watch?v=wKhSlIYQ5jA)
+## Tutorials
+
+**Online interactive step by step tutorial by [@jLynx](http://github.com/jLynx)**:  
+[http://deauth.me](http://deauth.me)  
+
+**$3 WiFi Jammer/Deauther using ESP8266 | Deauther 2.0 Flashing/Installation  by [@PwnKitteh](https://github.com/PwnKitteh)**:  
+[https://youtu.be/wKhSlIYQ5jA](https://youtu.be/wKhSlIYQ5jA)
 
 ## Flashing the firmware bin file
 
