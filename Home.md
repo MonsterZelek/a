@@ -9,7 +9,9 @@
 <br />
 <b>Support the development of this project by purchasing one of the <a href="https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices">official deauther boards</a>.<br/>Or become a patron on <a href="https://patreon.com/spacehuhn" target="_blank">patreon.com/spacehuhn</a>.</b>
 </p>
+<br>
 
+Please note that this Wiki isn't 100% completed yet. Some pages don't exist yet and some have incomplete information. We will add more content to this over time 😃 .
 
 ### [Supported Devices](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices)
 What devices are supported and what you have to look at when buying them.  
