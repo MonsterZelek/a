@@ -1,6 +1,6 @@
 # ESP8266 Deauther 2.0
 
-<p align="center"><img alt="logo" src="https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/deauther_logo.png?token=ADphfAaYKV9DCUpK3jqi_SeZf-BEzZFVks5aq68bwA%3D%3D" width="200"></p>
+<p align="center"><img alt="logo" src="https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/deauther_logo.png" width="200"></p>
 
 <p align="center">
 🐦 <a href="https://twitter.com/spacehuhn">Twitter</a>
