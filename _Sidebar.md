@@ -17,7 +17,7 @@
 - Display
 - Web
 
-### 6. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Commands)
+### 6. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md)
 
 ### 7. [Writing Scripts](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts)
 - [Introduction](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts#introduction)
