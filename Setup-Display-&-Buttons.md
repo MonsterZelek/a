@@ -37,7 +37,7 @@ I will focus on the NodeMCU in this tutorial since it is the most popular ESP826
 
 For a beginner it's recommended to only use 3 buttons (you can add more later), ab i2c display (those with 4 pins) and (optional) a neopixel as RGB LED.  
 
-### You can find everything you need [here](https://github.com/PwnKitteh/InsanelyCheapElectronics#deauther-20). 
+**You can find links to everything you need for this [here](https://github.com/PwnKitteh/InsanelyCheapElectronics#deauther-20).**
 
 ## Wire everything up
 Here is a quick reference of the NodeMCU pinout:  
@@ -81,11 +81,11 @@ Also don't forget that you only need 3 buttons, every other button is optional.
 
 There are 2 types of OLED displays that can be used for this project, the SSD1306 and the SH1106:  
 
-![PICTURE SSD1306 vs SH1106](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/ssd1306_sh1106_display.jpg?token=ADphfAy_JK-I2Ev0VjSr7JAc8dXdjpHMks5apSzDwA%3D%3D)
+![PICTURE SSD1306 vs SH1106](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/ssd1306_sh1106_display.jpg)
 
 And they sometimes come with either I2C or SPI:  
 
-![PICTURE I2C vs SPI displays](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/i2c_spi_display.jpg?token=ADphfM3gRO3K_rRac43RTKJZdJ6HJdlSks5apRNJwA%3D%3D)
+![PICTURE I2C vs SPI displays](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/i2c_spi_display.jpg)
 
 Now for the display it is very important that you know which connection it is using.  
 I2C can be connected to any GPIO pin (except 16).  
@@ -134,7 +134,7 @@ By default the LED on GPIO 16 (NodeMCU on-board LED) and the LED on GPIO 2 (ESP-
 | VCC | VCC/3.3V |
 | DIN | GPIO 9 (SD2) |
 
-![PICTURE i2c built](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/example_built_i2c.jpg?token=ADphfEM0aJwaxk_FoN-wRxPUVvALJGLkks5apVcVwA%3D%3D)
+![PICTURE i2c built](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/example_built_i2c.jpg)
 
 ### Example setup with SPI OLED
 
@@ -160,7 +160,7 @@ By default the LED on GPIO 16 (NodeMCU on-board LED) and the LED on GPIO 2 (ESP-
 | VCC | VCC/3.3V |
 | DIN | GPIO 9 (SD2) |
 
-![PICTURE spi built](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/example_built_spi.jpg?token=ADphfPKhAJ72FojUoItgQ-11N5XIBWagks5apVcTwA%3D%3D)
+![PICTURE spi built](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/example_built_spi.jpg)
 
 ## Adjust code
 
