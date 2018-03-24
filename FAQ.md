@@ -12,7 +12,7 @@ Even if someone would make such a chip, it would be incompatible with this softw
 You could build a dual band Deauther with a Raspberry Pi and the right WiFi module.  
 But as of right now, it's not always easy to find good Dual-Band WiFi chips that support packet injection and monitor mode.  
 
-> THE ESP8266 DOES NOT AND WILL NOT SUPPORT 5GHZ
+**THE ESP8266 DOES NOT AND WILL NOT SUPPORT 5GHZ!**
 
 Those that support it are often expensive and need special drivers (this will change in the future as new chips are released all the time).  
 But if you want to try it, look for the `rtl8812au` or `rtl8811au` WiFi modules. Those have already been used to inject packets on 5GHz.  
