@@ -14,8 +14,8 @@
 
 ### 5. Usage
 - [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage)
-- [Display]()
-- [Web]()
+- Display
+- Web
 
 ### 6. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Commands)
 
