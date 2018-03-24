@@ -57,7 +57,7 @@ The NodeMCU Flasher is outdated and can be buggy. If it doesn't work, just try f
 
 6) Check your upload settings and press upload!
 
-Sometimes you can get a compiler error that can be fixed by also installing the original ESP8266 Arduino SDK. The steps are similar. Add `http://arduino.esp8266.com/stable/package_esp8266com_index.json` to the Boards Manager, search for "esp8266" and install the `arduino-esp8266` (latest version should be fine). For a more detailed explanation visit [github.com/esp8266/Arduino](https://github.com/esp8266/Arduino).
+7) Sometimes you can get a compiler error that can be fixed by installing the original ESP8266 Arduino SDK as well. The steps are similar. Add `http://arduino.esp8266.com/stable/package_esp8266com_index.json` to the Boards Manager, search for "esp8266" and install the `arduino-esp8266` (latest version should be fine). For a more detailed explanation visit [github.com/esp8266/Arduino](https://github.com/esp8266/Arduino).
 
 ## Installation tips and tricks
 These are some small tips that are beneficial for first time users of this software, and hopefully will make it more accessible and cause less headache when flashing the board.  
