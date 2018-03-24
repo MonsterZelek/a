@@ -167,7 +167,7 @@ By default the LED on GPIO 16 (NodeMCU on-board LED) and the LED on GPIO 2 (ESP-
 Now that your setup is done, you have to make some changes to the code.  
 See [Installation](https://github.com/spacehuhn/esp8266_deauther/wiki/Installation#compiling-using-arduino-ide) on how to compile and upload code using Arduino.  
 
-1) Open Arduino and go to `0_config.h` (second tab)
+1) Open Arduino and go to `A_config.h` (second tab)
 
 2) Change all the `#define` settings according to your setup. The default settings are for the [I2C example setup](#example-setup-with-spi-oled), just without the Neopixel LED.
 
@@ -175,7 +175,7 @@ See [Installation](https://github.com/spacehuhn/esp8266_deauther/wiki/Installati
 
 4) Upload your code and test it
 
-5) Save a copy of the `0_config.h` file so it's easy for you to update the software later.
+5) Save a copy of the `A_config.h` file so it's easy for you to update the software later.
 
 ## Testing everything
 
