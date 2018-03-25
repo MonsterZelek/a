@@ -10,24 +10,26 @@
 
 ### 3. [Setup Display & Buttons](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons)
 
-### 4. [Settings](https://github.com/spacehuhn/esp8266_deauther/blob/master/settings.md)
-
-### 5. Usage
+### 4. Usage
 - [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage)
 - Display
 - Web
 
-### 6. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md)
-
-### 7. [Writing Scripts](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts)
-- [Introduction](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts#introduction)
-- [Running on boot](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts#running-on-boot)
-
-### 8. [Development](https://github.com/spacehuhn/esp8266_deauther/wiki/Development)
-
-### 9. [Troubleshooting](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting)
+### 5. [Troubleshooting](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting)
 - [General](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting#general)
 - [Fix crashes](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting#fix-crashes)
 - [Errors](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting#errors)
 
-### 10. [FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ) 
+### 6. [FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ) 
+
+### 7. [Projects]((https://github.com/spacehuhn/esp8266_deauther/blob/master/projects.md)
+
+### 8. [Settings](https://github.com/spacehuhn/esp8266_deauther/blob/master/settings.md)
+
+### 9. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md)
+
+### 10. [Writing Scripts](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts)
+- [Introduction](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts#introduction)
+- [Running on boot](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts#running-on-boot)
+
+### 11. [Development](https://github.com/spacehuhn/esp8266_deauther/wiki/Development)
