@@ -29,5 +29,6 @@ I have a simple standalone [DeauthDetector](https://github.com/spacehuhn/DeauthD
 
 ## Pwned the pwner
 Dave [@davedarko](https://twitter.com/davedarko) shows you in this quick video that changing the default password and SSID is a good idea! He made a script that searches for deauthers and try to log into them with the default credentials. When it's successful it will change the SSID and password and send a restart request.  
+But please note that this script was made for the 1.6 version and would need a few adjustments to work against the version 2.0.  
 - [YouTube](https://www.youtube.com/watch?v=D8zmXoDFpjU)
-- [Source](https://gist.github.com/davedarko/87183b00e77ffb8fc59f89bf3b23d561)
+- [Source Code](https://gist.github.com/davedarko/87183b00e77ffb8fc59f89bf3b23d561)
