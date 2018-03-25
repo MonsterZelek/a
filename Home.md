@@ -37,7 +37,7 @@ Common errors and how to solve them.
 ### [FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ) 
 Frequently asked questions.  
 
-### [Projects](https://github.com/spacehuhn/esp8266_deauther/wiki/projects.md)
+### [Projects](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects)
 A collection of cool projects people made with the Deauther.  
 
 ### [Settings](https://github.com/spacehuhn/esp8266_deauther/master/settings.md)
