@@ -5,7 +5,6 @@
   - [Esptool-gui](#esptool-gui)
   - [NodeMCU-flasher](#nodemcu-flasher)
 - [Compiling using Arduino IDE](#compiling-using-arduino-ide)
-  - [ESP8266 Deauther SDK](https://github.com/tobozo/Arduino#the-easy-way-for-users)
 - [Installation tips and tricks](#installation-tips-and-tricks)
   - [Flash Button / espcomm_open error](#flash-Button-and-espcomm_open-error)
   - [Drivers and COM Port](#drivers-and-com-port)
