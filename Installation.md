@@ -27,6 +27,9 @@
 
 ## Flashing the firmware bin file
 
+You can find precompiled .bin files on the [release page](https://github.com/spacehuhn/esp8266_deauther/releases). Be sure to download the latest version. The 1 MB file should be good for most devices. If you have a NodeMCU with an ESP-12 you can also use the 4MB file. But all in all, it shouldn't matter that much.  
+Use one of the following software to flash your ESP8266 with the .bin file.  
+
 ### Esptool
 Using the NodeMCU (or any similar development board), the flash location is 0x0000 and the mode is qio.  
 `esptool.py -p /dev/ttyUSB0 write_flash -fm qio 0x0000 esp8266_deauther.ino.nodemcu.bin`  
