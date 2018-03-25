@@ -22,7 +22,7 @@
 
 ### 6. [FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ) 
 
-### 7. [Projects](https://github.com/spacehuhn/esp8266_deauther/blob/master/projects.md)
+### 7. [Projects](https://github.com/spacehuhn/esp8266_deauther/wiki/projects.md)
 
 ### 8. [Settings](https://github.com/spacehuhn/esp8266_deauther/blob/master/settings.md)
 
