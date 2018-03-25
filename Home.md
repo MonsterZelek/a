@@ -28,8 +28,8 @@ A list of all settings with a short description.
 
 ### Usage
 - [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage)
-- [Display]()
-- [Web]()
+- Display
+- Web
 
 ### [Writing Scripts](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts)
 How to make use of the simple scripting system.  
