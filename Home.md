@@ -12,7 +12,7 @@ Also available: <a href="https://www.tindie.com/products/Spacehuhn/spacehuhn-sti
 </p>
 <br>
 
-Please note that this Wiki isn't 100% completed yet. Some pages don't exist yet and some have incomplete information. We will add more content to this over time 😃 .
+Please note that this Wiki isn't 100% completed yet. Some pages don't exist yet and some have incomplete information. We will add more content over time 😃. If you can't find the information you're looking for, you can always ask in the [issue section](https://github.com/spacehuhn/esp8266_deauther/issues).  
 
 ### [Supported Devices](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices)
 What devices are supported and what you have to look at when buying them.  
