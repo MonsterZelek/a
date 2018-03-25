@@ -29,7 +29,5 @@
 ### 9. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md)
 
 ### 10. [Writing Scripts](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts)
-- [Introduction](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts#introduction)
-- [Running on boot](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts#running-on-boot)
 
 ### 11. [Development](https://github.com/spacehuhn/esp8266_deauther/wiki/Development)
