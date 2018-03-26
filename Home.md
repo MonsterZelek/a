@@ -12,7 +12,7 @@ Also available: <a href="https://www.tindie.com/products/Spacehuhn/spacehuhn-sti
 </p>
 <br>
 
-Please note that this Wiki isn't 100% completed yet. Some pages don't exist yet and some have incomplete information. We will add more content over time 😃. If you can't find the information you're looking for, you can always ask in the [issue section](https://github.com/spacehuhn/esp8266_deauther/issues).  
+⚠️ Please note that this Wiki isn't 100% completed yet. Some pages don't exist yet and some have incomplete information. We will add more content over time 😃. If you can't find the information you're looking for, you can always ask in the [issue section](https://github.com/spacehuhn/esp8266_deauther/issues).  
 
 ### [Supported Devices](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices)
 What devices are supported and what you have to look at when buying them.  
@@ -27,15 +27,15 @@ How to install the software on your ESP8266.
 How to setup the display, buttons and LED.  
 
 ### [Usage](https://github.com/spacehuhn/esp8266_deauther/wiki/Usage)
-- [Web](https://github.com/spacehuhn/esp8266_deauther/wiki/Web)
-- [Display](https://github.com/spacehuhn/esp8266_deauther/wiki/Display)
-- [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial)
+- 📳 [Web](https://github.com/spacehuhn/esp8266_deauther/wiki/Web)
+- 🎦 [Display](https://github.com/spacehuhn/esp8266_deauther/wiki/Display)
+- 🔡 [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial)
 
 ### [Troubleshooting](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting)
 Common errors and how to solve them.  
 
 ### [FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ) 
-Frequently asked questions.  
+❓ Frequently asked questions.  
 
 ### [Projects](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects)
 A collection of cool projects people made with the Deauther.  
