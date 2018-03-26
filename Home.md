@@ -26,10 +26,10 @@ How to install the software on your ESP8266.
 ### [Setup Display & Buttons](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons)
 How to setup the display, buttons and LED.  
 
-### Usage
-- [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage)
-- Display
-- Web
+### [Usage](https://github.com/spacehuhn/esp8266_deauther/wiki/Usage)
+- [Web](https://github.com/spacehuhn/esp8266_deauther/wiki/Web)
+- [Display](https://github.com/spacehuhn/esp8266_deauther/wiki/Display)
+- [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial)
 
 ### [Troubleshooting](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting)
 Common errors and how to solve them.  
