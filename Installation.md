@@ -19,10 +19,10 @@
 ## Tutorials
 
 **Online interactive step by step tutorial by [@jLynx](http://github.com/jLynx)**:  
-[http://deauth.me](http://deauth.me)  
+🎓 [http://deauth.me](http://deauth.me)  
 
 **$3 WiFi Jammer/Deauther using ESP8266 | Deauther 2.0 Flashing/Installation  by [@PwnKitteh](https://github.com/PwnKitteh)**:  
-[https://youtu.be/wKhSlIYQ5jA](https://youtu.be/wKhSlIYQ5jA)
+🎬 [https://youtu.be/wKhSlIYQ5jA](https://youtu.be/wKhSlIYQ5jA)
 
 ## Flashing the firmware bin file
 
@@ -44,12 +44,12 @@ Select the COM port, go to config and select your .bin file at *0x000000*.
 Go back to Operation and click Flash.  
 ![Recommended Flash settings NodeMCU Flasher](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/flash_settings_nodemcu_flasher.jpg?token=ADphfP9cru0muSh7GrPl8JUMM4mCLSy7ks5avgLpwA%3D%3D)  
 
-The NodeMCU Flasher is outdated and can be buggy. If it doesn't work, just try flashing it again and see the [Installation tips and tricks](#installation-tips-and-tricks).  
+⚠️ The NodeMCU Flasher is outdated and can be buggy. If it doesn't work, just try flashing it again and see the [Installation tips and tricks](#installation-tips-and-tricks).  
 
 ## Compiling using Arduino IDE
 0) First you have to install and open the [Arduino IDE](https://www.arduino.cc/en/main/software).  
 
-1) In Arduino go to File -> Preferences add these URLs `http://arduino.esp8266.com/stable/package_esp8266com_index.json`,`http://phpsecu.re/esp8266/package_deauther_index.json` at *Additional Boards Manager URLs*  
+1) In Arduino go to File -> Preferences add *both* URLs `http://arduino.esp8266.com/stable/package_esp8266com_index.json`,`http://phpsecu.re/esp8266/package_deauther_index.json` at *Additional Boards Manager URLs*  
 ![adding board url](https://raw.githubusercontent.com/tobozo/Arduino/deauther/screenshots/board_manager_urls.jpg)
 
 2) Go to Tools -> Board -> Boards Manager, search "esp8266" and install `esp8266` first, then `arduino-esp8266-deauther`  
@@ -72,7 +72,7 @@ We recommend the [esptool](https://github.com/espressif/esptool) for flashing .b
 For customized versions, we highly recommend using Arduino and our Deauther SDK (see Compiling using Arduino IDE).
 
 ### Flash Button and espcomm_open error
-Sometimes everything is right but it won't upload and you maybe get an error like `error: espcomm_open failed`.  
+💥❗️❓❗️❗️💢 Sometimes everything is right but it won't upload and you maybe get an error like `error: espcomm_open failed`.  
 What you have to do is hold the flash button down, start uploading and **only release it when you see that it's started uploading**.  
 <!--![PICTURE nodemcu flash button](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/nodemcu_flash_buttons.jpg)-->
 
@@ -86,8 +86,8 @@ On Windows you can also have a look at your device manager, there you can also s
 If non of the COM ports work correctly or you can't find any COM Port, you might need to install the drivers.  
 The driver you need depends on the UART (USB to Serial) chip that is used on your development board.  
 Those are the drivers of the most used chips:  
-- [CP2102](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
-- [CH340](https://sparks.gogo.co.nz/ch340.html)
+- 💾 [CP2102](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+- 💾 [CH340](https://sparks.gogo.co.nz/ch340.html)
 
 ![PICTURE serial chips](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/nodemcu_serial_modules.jpg)  
 
