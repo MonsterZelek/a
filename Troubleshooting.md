@@ -1,13 +1,13 @@
 ## Drivers
-If you can't find the COM port of your device, then you probably haven't installed the drivers or they are not working correctly.  
+If you can't find the COM port of your device, then you probably haven't installed the drivers or they are not working correctly.
 Here are the links to the drivers of the 2 most used UART chips:
-- [CP2102](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
-- [CH340](https://sparks.gogo.co.nz/ch340.html)  
+- 💾 [CP2102](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+- 💾 [CH340](https://sparks.gogo.co.nz/ch340.html)
 
-If you're not sure which chip your board is using, just try both. 
+If you're not sure which chip your board is using, just try both.
 
-## It's not working
-Here are a few things you can try if it isn't working. 
+## 💥❗️❓❗️❗️💢 It's not working
+Here are a few things you can try if it isn't working.
 - Does the USB cable have data lines? This seems weird, but not every cable does, and it might be a reason of why the board isn't
 - Maybe the chip randomly broke, try flashing another program onto it.
 
