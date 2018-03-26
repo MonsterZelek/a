@@ -10,10 +10,10 @@
 
 ### 3. [Setup Display & Buttons](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons)
 
-### 4. Usage
-- [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage)
-- Display
-- Web
+### 4. [Usage](https://github.com/spacehuhn/esp8266_deauther/wiki/Usage)
+- [Web](https://github.com/spacehuhn/esp8266_deauther/wiki/Web)
+- [Display](https://github.com/spacehuhn/esp8266_deauther/wiki/Display)
+- [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial)
 
 ### 5. [Troubleshooting](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting)
 - [General](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting#general)
