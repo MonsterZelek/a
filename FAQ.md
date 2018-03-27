@@ -3,6 +3,7 @@
 - [5GHz Support](#5ghz-support)
 - [ESP32 and ESP8285 Support](#esp32-and-esp8285-support)
 - [Difference between Jammer and Deauther](#difference-between-jammer-and-deauther)
+- [Why is there no Packet-Monitor/Deauth-Detector in the web interface?](#why-is-there-no-packet-monitordeauth-detector-in-the-web-interface)
 
 ## 5GHz Support
 The ESP8266 supports 2.4GHz WiFi, which is already very impressive if you think about how small, powerful, accessible and affordable this system on a chip is.
@@ -18,11 +19,15 @@ Devices supporting this are often expensive and need special drivers (this will 
 But if you want to try it, look for the `rtl8812au` or `rtl8811au` WiFi modules. Those have already been used to inject packets on 5GHz.
 
 # ESP32 And ESP8285 Support
-ESP32: No
-ESP8285: Yes
-See [Supported Devices](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices) for more.
+ESP32: No  
+ESP8285: Yes  
+See [Supported Devices](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices) for more.  
 
 # Difference between Jammer and Deauther
 While a jammer just creates noise on a specific frequency range (i.e. 2.4GHz), a deauthentication attack is only possible due to a vulnerability in the WiFi (802.11) standard. The deauther does not interfer with any frequencies, it is just sending a few WiFi packets that let certain devices disconnect. That enables you to specifically select every target. A jammer just blocks everything within a radius and is therefore highly illegal to use.
 
 Watch this video for a good explanation on the technical and legal differences: 🎬 [WiFi Jammers vs Deauthers | What's The Difference?](https://www.youtube.com/watch?v=6m2vY2HXU60)  
+
+## Why is there no Packet-Monitor/Deauth-Detector in the web interface?
+The problem is that you can't have an access point open to host the web server while sniffing WiFi.  
+It's like with every other WiFi card. Either you use it as an access point to host a network, as a station to connect to one or you put it in monitor mode to sniff for packets. But you can't have everything at the same time.  
