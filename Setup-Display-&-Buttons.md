@@ -169,7 +169,7 @@ See [Installation](https://github.com/spacehuhn/esp8266_deauther/wiki/Installati
 
 1) Open Arduino and go to `A_config.h` (second tab)
 
-2) Change all the `#define` settings according to your setup. The default settings are for the [I2C example setup](#example-setup-with-spi-oled), just without the Neopixel LED.
+2) Change all the `#define` settings according to your setup. The default settings are for the [I2C example setup](#example-setup-with-spi-oled), just without the Neopixel LED. Be sure not to confuse the GPIO pins with the NodeMCU pins (D0,D1...)! You can find the NodeMCU pinout above.  
 
 3) Don't forget to change `#define USE_DIPLAY false` to `#define USE_DIPLAY true`
 
