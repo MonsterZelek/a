@@ -5,4 +5,4 @@ One cool thing about the new deauther version is the ability to write scripts. T
 The first broadcast MAC is the access point MAC, and the second is the MAC of the station. The first 0 is the reason (0 is unspecified) and the second 0 is the channel. As I said before, you have to know the channel your target is on, but if you want to get around this, you could just make the same command 14 times, incrementing the channel from 1-14. 
 
 ## Running on boot
-To run your script on boot, write it to autostart.txt instead of another file. One caveat to this system is that there is currently *NO RUN COMMAND WITHIN SCRIPTS*, Meaning that you can't run a script from within a script. 
+To run your script on boot, write it to autostart.txt instead of another file. One caveat to this system is that there is currently **NO RUN COMMAND WITHIN SCRIPTS**, Meaning that you can't run a script from within a script. 
