@@ -109,7 +109,6 @@ Like in this Arduino tutorial: https://www.arduino.cc/en/Tutorial/InputPullupSer
 ### LED
 The LED(s) is completley optional. It's used to give the user a better indication of what the device is currently doing. For example Green = idle, Blue = scanning, RED = deauth attack detected (when scanning).  
 You can use single digital LEDs, a RGB LED or a neopixel LED (ws2812).  
-Look at the [LEDs](https://github.com/spacehuhn/esp8266_deauther/tree/master/LEDs) folder to see which types of LEDs are supported and how to adjust the code for your setup.  
 
 By default the LED on GPIO 16 (NodeMCU on-board LED) and the LED on GPIO 2 (ESP-12 and ESP-07 on-module LED) are used. So be sure to disable them if you want to use those pins for something else.  
 
