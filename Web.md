@@ -8,7 +8,7 @@ If you don't see a `pwned` network, fash the ESP8266 again. See [installation](h
 You can also look at the [Serial monitor](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial) for further debugging.  
 
 ## A Few Notes
-Ok so a few things people like to complain about that are perfictly normal.
+Ok so a few things people like to complain about that are perfectly normal.
 
 **1.** The web interface is unstable and gives errors.  
 Yes it does, the web server is build with an outdated library that is known to cause some trouble. 
