@@ -42,7 +42,7 @@ For a beginner it's recommended to only use 3 buttons (you can add more later), 
 ## Wire everything up
 Here is a quick reference of the NodeMCU pinout:  
 
-![NodeMCU pinout](https://raw.githubusercontent.com/spacehuhn/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png)
+![External PICTURE NodeMCU pinout](https://raw.githubusercontent.com/spacehuhn/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png)
 
 (Click [here](http://www.pighixxx.com/test/portfolio-items/esp8266/) for a Pinout on the ESP-12, ESP-07 and ESP-01)  
 
@@ -81,11 +81,11 @@ Also don't forget that you only need 3 buttons, every other button is optional.
 
 There are 2 types of OLED displays that can be used for this project, the SSD1306 and the SH1106:  
 
-![PICTURE SSD1306 vs SH1106](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/ssd1306_sh1106_display.jpg)
+![PICTURE SSD1306 vs SH1106](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/ssd1306_sh1106_display.jpg)
 
 And they sometimes come with either I2C or SPI:  
 
-![PICTURE I2C vs SPI displays](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/i2c_spi_display.jpg)
+![PICTURE I2C vs SPI displays](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/i2c_spi_display.jpg)
 
 Now for the display it is very important that you know which connection it is using.  
 I2C can be connected to any GPIO pin (except 16).  
@@ -133,7 +133,7 @@ By default the LED on GPIO 16 (NodeMCU on-board LED) and the LED on GPIO 2 (ESP-
 | VCC | VCC/3.3V |
 | DIN | GPIO 9 (SD2) |
 
-![PICTURE i2c built](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/example_built_i2c.jpg)
+![PICTURE i2c build](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/example_built_i2c.jpg)
 
 ### Example setup with SPI OLED
 
@@ -159,7 +159,7 @@ By default the LED on GPIO 16 (NodeMCU on-board LED) and the LED on GPIO 2 (ESP-
 | VCC | VCC/3.3V |
 | DIN | GPIO 9 (SD2) |
 
-![PICTURE spi built](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/example_built_spi.jpg)
+![PICTURE spi build](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/example_built_spi.jpg)
 
 ## Adjust code
 
