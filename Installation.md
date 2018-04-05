@@ -42,7 +42,7 @@ Select the COM Port and the .bin file (firmware), then just press upload.
 Another easy to use GUI flasher, but this time only for Windows: [nodemcu-flasher](https://github.com/nodemcu/nodemcu-flasher).  
 Select the COM port, go to config and select your .bin file at *0x000000*.   
 Go back to Operation and click Flash.  
-![Recommended Flash settings NodeMCU Flasher](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/flash_settings_nodemcu_flasher.jpg?token=ADphfP9cru0muSh7GrPl8JUMM4mCLSy7ks5avgLpwA%3D%3D)  
+![Recommended Flash settings NodeMCU Flasher](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/flash_settings_nodemcu_flasher.jpg)  
 
 ⚠️ The NodeMCU Flasher is outdated and can be buggy. If it doesn't work, just try flashing it again and see the [Installation tips and tricks](#installation-tips-and-tricks).  
 
@@ -53,13 +53,13 @@ Go back to Operation and click Flash.
 - `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
 - `http://phpsecu.re/esp8266/package_deauther_index.json` 
 
-![adding board url](https://raw.githubusercontent.com/tobozo/Arduino/deauther/screenshots/board_manager_urls.jpg)
+![External PICTURE adding board url](https://raw.githubusercontent.com/tobozo/Arduino/deauther/screenshots/board_manager_urls.jpg)
 
 2) Go to Tools -> Board -> Boards Manager, search "esp8266" and install `esp8266` first, then `arduino-esp8266-deauther`  
-![installing sdk](https://raw.githubusercontent.com/tobozo/Arduino/deauther/screenshots/board_manager_sdk.jpg)
+![External PICTURE installing sdk](https://raw.githubusercontent.com/tobozo/Arduino/deauther/screenshots/board_manager_sdk.jpg)
 
 3) Select your board at Tools -> Board and be sure it is at `ESP8266 Deauther Modules` (and **not** at `ESP8266 Modules`)!  
-![select board](https://raw.githubusercontent.com/tobozo/Arduino/deauther/screenshots/screenshot_select_board.jpg)
+![External PICTURE select board](https://raw.githubusercontent.com/tobozo/Arduino/deauther/screenshots/screenshot_select_board.jpg)
 
 4) Download the source code for this project from the [releases page](https://github.com/spacehuhn/esp8266_deauther/releases). You can also clone the project to get the latest changes, but you will also get the latest bugs ;)
 
@@ -77,7 +77,7 @@ For customized versions, we highly recommend using Arduino and our Deauther SDK 
 ### Flash Button and espcomm_open error
 💥❗️❓❗️❗️💢 Sometimes everything is right but it won't upload and you maybe get an error like `error: espcomm_open failed`.  
 What you have to do is hold the flash button down, start uploading and **only release it when you see that it's started uploading**.  
-<!--![PICTURE nodemcu flash button](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/nodemcu_flash_buttons.jpg)-->
+![PICTURE nodemcu flash button](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/nodemcu_flash_buttons.jpg)
 
 Most development boards feature a auto-reset method and sometimes it doesn't work properly and it fails to go into flashing mode automatically. To manully force it into the flashing mode, you have to hold down the button.   
 
@@ -92,7 +92,7 @@ Those are the drivers of the most used chips:
 - 💾 [CP2102](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 - 💾 [CH340](https://sparks.gogo.co.nz/ch340.html)
 
-![PICTURE serial chips](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/nodemcu_serial_modules.jpg)  
+![PICTURE serial chips](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/nodemcu_serial_modules.jpg)  
 
 If you're not sure which chip your board is using, just try both.  
 
@@ -134,7 +134,7 @@ The recommended baud rate for uploading is 115200. You can try higher baud rates
 
 #### Flash Size
 The flash size is an important factor!  
-![PICTURE different esp8266 modules](https://raw.githubusercontent.com/spacehuhn/esp8266/master/img/esp_modules.jpg)  
+![PICTURE different esp8266 modules](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266/img/esp_modules.jpg)  
 The ESP-12 (which is used on most development boards like the NodeMCU) has 4MB of flash memory.  
 Other Modules like the ESP-01 and ESP-07 (the one with the antenna connector) come with only 1MB of memory.  
 You have to change your upload settings depending on the module you're using.  
