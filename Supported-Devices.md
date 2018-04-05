@@ -7,7 +7,7 @@ The ESP32 is **not** supported!
 **Here are some of the most used boards for this project**
 
 ## DSTIKE Boards
-![PICTURE DSTIKE Deauther OLED Board](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/DSTIKE_Deauther_Board.jpg)
+![PICTURE DSTIKE Deauther OLED Board](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/DSTIKE_Deauther_Board.jpg)
 
 If you want to support the development of this project, you can buy one of the offical boards by DSTIKE (Travis Lin) on following sites:  
 - [Tindie](https://tindie.com/stores/lspoplove)  
@@ -22,11 +22,11 @@ If you want to assemble the project yourself, you can find the parts you need [h
 
 ## NodeMCU
 This is the recommended board for beginners that want to learn more about electronics and programming!  
-![PICTURE NodeMCU v1.0](https://raw.githubusercontent.com/spacehuhn/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg)  
+![External PICTURE NodeMCU v1.0](https://raw.githubusercontent.com/spacehuhn/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg)  
 The NodeMCU is an open source project and there are many companies producing it. The most known one is Amica. There is also a Lolin NodeMCU v3 but don't get confused by any version number:    
 
 
-![PICTURE NodeMCU comparison](https://raw.githubusercontent.com/spacehuhn/esp8266_deauther/master/img/nodemcus.jpg)  
+![PICTURE NodeMCU comparison](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/nodemcus.jpg)  
 
 
 I always recommend the v1.0 (might be sold under a different version number). It's the board from Amica. It is cheap, breadboard friendly and uses the cp2102, a better alternative to the old CH340 USB to serial chip.  
