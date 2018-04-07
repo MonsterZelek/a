@@ -3,8 +3,9 @@
 - [It's not working](#its-not-working)
 - [Fix crashed](#fix-crashes)
 - [Removing Deauther](#removing-deauther)
-- [Espcom opening error](#espcom-opening-error)
+- [espcom error](#espcom-error)
 - [Language doesn't change](#language-doesnt-change)
+- [Error writing/saving/reading file](#error-writingsavingreading-file)
 
 ## Drivers
 If you can't find the COM port of your device, then you probably haven't installed the drivers or they are not working correctly.
@@ -29,9 +30,9 @@ A crash or exception can have a lot of reasons but before you open a new issue, 
 ## Removing Deauther
 To erase the deauther (inclusing SPIFFS and EEPROM), please flash our simple [Reset Sketch](https://github.com/spacehuhn/esp8266_deauther/tree/master/Reset_Sketch).  
 
-## espcom opening error
-The `espcom opening error` tells you that your computer couldn't connect to the ESP8266 correctly when uploading.  
-Be sure you have the correct COM port selected and the correct [upload settings](#upload-settings).  
+## espcomerror
+The `espcom opening error` or `espcomm_sync failed` tells you that your computer couldn't connect to the ESP8266 correctly when trying to upload something.  
+Be sure you have the correct COM port selected and use the correct [upload settings](#upload-settings).  
 If you can't find the COM port, read [Finding COM Port](#finding-com-port) first.  
 Maybe you need to [install the drivers](#drivers).  
 Also be sure you use a USB data cable! Sometimes it also helps to restart Arduino or your computer, changing the cable or USB port.  
@@ -44,3 +45,6 @@ To see what languages are supported, have a look at the [lang folder](https://gi
 If the language doesn't change, it is probably because your browser has the old language file cached and doesn't want to reload it. Try deleting your browser cache.  
 Or open `192.168.4.1/lang/default.lang` and reload it one or two times.  
 
+## Error writing/saving/reading file
+If you get message like `Error saving file` or something similar over serial, there is probably something wrong with the SPIFFS. It happens sometimes that the file system get corrupted for some reason. Usually you can fix it by running the command `format` and then restarting the device.  
+If the error persists, please be sure that your [upload settings](https://github.com/spacehuhn/esp8266_deauther/wiki/Installation#upload-settings) are correct, especially the [flash size](https://github.com/spacehuhn/esp8266_deauther/wiki/Installation#flash-size).  
