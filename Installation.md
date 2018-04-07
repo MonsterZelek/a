@@ -111,20 +111,21 @@ Upload Speed: 115200
 Port: <com port of your device>
 ```
 Most NodeMCUs and other development boards have 4MB Flash so you can set the Flash Size to 4M (3M SPIFFS) or select NodeMCU 1.0 as the board.  
-Changing the Flash size can give you more SPIFFS for saving data, scripts or other files.  
+A bigger Flash size can give you more memory in the SPIFFS for saving data, scripts or other files. Increasing the SPIFFS can also make it a bit slower, as the ESP8266 has to maintain a bigger file system.  
 If you have a board with the ESP-07 (the one with the connector for an external antenna) it probably only has 1MB of flash, so keep the recommended settings above.  
-Putting the Upload Speed to 921600 or changing the Flash Frequency to 80MHz gives you higher upload speeds but doesn't always work.  
+Putting the Upload Speed to 921600 (or other baud rates) gives you a higher upload speed but doesn't always work.  
 
 #### Flash Mode
 DIO should always work. It means Dual In-/Output.  
-QIO (quad I/O) uses 4 instead of 2 pins and it should make the flash faster, but you won't be able to use GPIO 9 and 10 (SD2, SD3)! If you flash it with QIO and use those pins, it will crash without a warning.  
+QIO (quad I/O) uses 4 instead of 2 pins and will make the flash faster. However, you won't be able to use GPIO 9 and 10 (SD2, SD3)! If you flash it with QIO and use those pins, it will crash without a warning.  
 More details on the different modes are descripted here: https://github.com/espressif/esptool/wiki/SPI-Flash-Modes
 
 #### Flash Frequency
-Like with the flash mode, just try out what works the best.  
+A higher flash frequency should increase the speed, but it doesn't always work with every module.  
+Try out what works the best.  
 
 #### CPU Frequency
-We strongly recomment to use 160MHz to get the extra performance out of the chip.  
+We strongly recommend to use 160MHz to get the extra performance out of the chip.  
 
 #### Reset Method
 Again, try out what works and use that.  
@@ -140,3 +141,4 @@ Other Modules like the ESP-01 and ESP-07 (the one with the antenna connector) co
 You have to change your upload settings depending on the module you're using.  
 
 For compiling we recomment to use either `1M (256K SPIFFS)` or `4M (3M SPIFFS)`.  
+It is also very important to note, that you **must give the SPIFFS some memory**. This software will only work with the SPIFFS enabled, otherwise you will see something like `Initializing SPIFFS...ERROR` on startup.  
