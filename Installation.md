@@ -2,6 +2,7 @@
 - [Tutorials](#tutorials)
 - [Flashing bin file](#flashing-the-firmware-bin-file)
   - [Esptool](#esptool)
+  - [Flash Download Tools](#flash-download-tools)
   - [Esptool-gui](#esptool-gui)
   - [NodeMCU-flasher](#nodemcu-flasher)
 - [Compiling using Arduino IDE](#compiling-using-arduino-ide)
@@ -33,6 +34,12 @@ Use one of the following software to flash your ESP8266 with the .bin file.
 Using the NodeMCU (or any similar development board), the flash location is 0x0000 and the mode is qio.  
 `esptool.py -p /dev/ttyUSB0 write_flash -fm qio 0x0000 esp8266_deauther.ino.nodemcu.bin`  
 Where `/dev/ttyUSB0` is the COM port of your device, `write_flash` is telling the program to write to flash memory, `-fm qio` is mode qio, which is the mode for chips with 4MB or more, and `esp8266_deather.ino.nodemcu.bin` is the name of your .bin file. 
+
+### Flash Download Tools
+Espressif has an official GUI tool for Windows.  
+It has a lot of options and can be used for the ESP8266, ESP8285 and ESP32.  
+You can find it on Espressif's download page here: https://www.espressif.com/en/support/download/other-tools  
+(When the link changed, just search for `esp flash download tool`)  
 
 ### Esptool-gui
 An easy to use GUI flasher for Windows and Mac: [esptool-gui](https://github.com/Rodmg/esptool-gui).  
