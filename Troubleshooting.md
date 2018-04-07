@@ -30,8 +30,8 @@ A crash or exception can have a lot of reasons but before you open a new issue, 
 ## Removing Deauther
 To erase the deauther (inclusing SPIFFS and EEPROM), please flash our simple [Reset Sketch](https://github.com/spacehuhn/esp8266_deauther/tree/master/Reset_Sketch).  
 
-## espcomerror
-The `espcom opening error` or `espcomm_sync failed` tells you that your computer couldn't connect to the ESP8266 correctly when trying to upload something.  
+## espcom error
+The `espcom opening` or `espcomm_sync failed` error tells you that your computer couldn't connect to the ESP8266 correctly when trying to upload something.  
 Be sure you have the correct COM port selected and use the correct [upload settings](#upload-settings).  
 If you can't find the COM port, read [Finding COM Port](#finding-com-port) first.  
 Maybe you need to [install the drivers](#drivers).  
