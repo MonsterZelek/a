@@ -16,9 +16,6 @@
 - [Serial](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial)
 
 ### 5. [Troubleshooting](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting)
-- [General](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting#general)
-- [Fix crashes](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting#fix-crashes)
-- [Errors](https://github.com/spacehuhn/esp8266_deauther/wiki/Troubleshooting#errors)
 
 ### 6. [FAQ](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ) 
 
