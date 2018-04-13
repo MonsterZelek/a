@@ -1,11 +1,18 @@
 # ❓ FAQ
 **Overview**
+- [How to do a Reset / I forgot the password](#how-to-do-a-reset)
 - [5GHz Support](#5ghz-support)
 - [ESP32 and ESP8285 Support](#esp32-and-esp8285-support)
 - [Difference between Jammer and Deauther](#difference-between-jammer-and-deauther)
 - [Why is there no Packet-Monitor/Deauth-Detector in the web interface?](#why-is-there-no-packet-monitordeauth-detector-in-the-web-interface)
 - [How to compile .bin files](#how-to-compile-bin-files)
-- [How to do a Reset](#how-to-do-a-reset)
+
+## How to do a Reset
+If you just want to reset the settings you can open a serial connection and type in `reset`.  
+The easiest way to do that is using the Arduino Serial monitor. The baudrate is `115200` with `Newline`.  
+To erase the Deauther script including the WiFi credentials and everything that is saved in the SPIFFS, use our reset sketch:
+https://github.com/spacehuhn/esp8266_deauther/tree/master/Reset_Sketch  
+You can either compile and flash the .ino file with Arduino or flash one of the .bin files.  
 
 ## 5GHz Support
 The ESP8266 supports 2.4GHz WiFi, which is already very impressive if you think about how small, powerful, accessible and affordable this system on a chip is.
@@ -36,10 +43,3 @@ It's like with every other WiFi card. Either you use it as an access point to ho
 
 ## How to compile .bin files
 In Arduino click `Sketch` -> `Export compiled Binary` and a new .bin file will be created in the sketch folder.
-
-## How to do a Reset
-If you just want to reset the settings you can open a serial connection and type in `reset`.  
-The easiest way to do that is using the Arduino Serial monitor. The baudrate is `115200` with `Newline`.  
-To erase the Deauther script including the WiFi credentials and everything that is saved in the SPIFFS, use our reset sketch:
-https://github.com/spacehuhn/esp8266_deauther/tree/master/Reset_Sketch  
-You can either compile and flash the .ino file with Arduino or flash one of the .bin files.  
