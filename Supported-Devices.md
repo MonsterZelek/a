@@ -44,3 +44,18 @@ But you have to be careful, there are a lot copies of the Wemos products!
 ## Adafruit HUZZAH ESP8266
 Adafruit has a Feather board with the ESP8266 in their sore. Those are a bit more pricy than the chinese NodeMCUs but you get a very quailty board in return, good online documentation and a friendly community around it.  
 
+## WARNING
+
+### Fake Boards!
+![PICTURE Fake WEMOS Board](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/fake_wemos_1.jpg)
+![PICTURE Fake WEMOS Board](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/fake_wemos_2.jpg)
+
+You will find some cheaper boards that look like the official deuther boards but for lower prices. **I highly recommend to stay away from them!**  
+These companies like to copy Travis Lin's (DSTIKE) designs, steal my software and sell it as Wemos boards!  
+They also started to label their boards as "TTGO" now. They don't put much effort into it, so the quality is often horrible.  
+**DON'T SUPPORT THIS BEHAVIOUR!**  This is not how open source works! It hurts not only this project, but the whole cummunity around it!  
+
+Here are some of the biggest shops on AliExpress you better stay away from:  
+- LILY GO 
+- FACE-TO-FACE Electronic
+- Seatechnolgy
