@@ -2,6 +2,7 @@
 - [Drivers](#drivers)
 - [It's not working](#its-not-working)
 - [Fix crashed](#fix-crashes)
+- [Not able to connect](#not-able-to-connect)
 - [Removing Deauther](#removing-deauther)
 - [espcom error](#espcom-error)
 - [Language doesn't change](#language-doesnt-change)
@@ -26,6 +27,11 @@ A crash or exception can have a lot of reasons but before you open a new issue, 
 - type `reset` to reset all settings
 - type `format` to remove all saved files in the SPIFFS
 - dis- and reconnect your device and see if it works now
+
+## Not able to connect
+There could be a lot of reasons why you can't connect to the ESP8266 with certain devices.  
+For example, someone reported that the Intel 7260 WiFi Chip can make problems: https://github.com/spacehuhn/esp8266_deauther/issues/754  
+Arduino has example sketches for the ESP8266 to create an access point. You can try that out and see if you can connect to it. If not, then the problem is not related to this project's code and you have to investigate your hardware/software setup further.  
 
 ## Removing Deauther
 To erase the deauther (inclusing SPIFFS and EEPROM), please flash our simple [Reset Sketch](https://github.com/spacehuhn/esp8266_deauther/tree/master/Reset_Sketch).  
