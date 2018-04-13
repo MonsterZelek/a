@@ -142,7 +142,7 @@ The recommended baud rate for uploading is 115200. You can try higher baud rates
 
 #### Flash Size
 The flash size is an important factor!  
-![PICTURE different esp8266 modules](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266/img/esp_modules.jpg)  
+![PICTURE different esp8266 modules](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/esp_modules.jpg)  
 The ESP-12 (which is used on most development boards like the NodeMCU) has 4MB of flash memory.  
 Other Modules like the ESP-01 and ESP-07 (the one with the antenna connector) come with only 1MB of memory.  
 You have to change your upload settings depending on the module you're using.  
