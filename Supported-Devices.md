@@ -59,3 +59,6 @@ Here are some of the biggest shops on AliExpress you better stay away from:
 - LILY GO 
 - FACE-TO-FACE Electronic
 - Seatechnolgy
+
+![PICTURE Fake WEMOS Board](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/fake_wemos_3.jpg)
+![PICTURE Fake WEMOS Board](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/fake_wemos_4.jpg)
