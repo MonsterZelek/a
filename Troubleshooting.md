@@ -42,6 +42,7 @@ Be sure you have the correct COM port selected and use the correct [upload setti
 If you can't find the COM port, read [Finding COM Port](#finding-com-port) first.  
 Maybe you need to [install the drivers](#drivers).  
 Also be sure you use a USB data cable! Sometimes it also helps to restart Arduino or your computer, changing the cable or USB port.  
+It was also reported that the Windows-Insider-Program can make problems with the cp2102 drivers.  
 
 If everything else fails, try reflashing the deauther. See [Removing Deauther](#removing-deauther) and then flash it again (we recommend esptool.py).  
 
