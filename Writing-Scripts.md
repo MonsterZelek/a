@@ -1,3 +1,5 @@
+[![Video on scripting with deauther 2.0](https://img.youtube.com/vi/v8xkyR3JXrw/0.jpg)](https://www.youtube.com/watch?v=v8xkyR3JXrw)
+
 ## Introduction
 
 One cool thing about the new deauther version is the ability to write scripts. This is meant as a small add-on, and not as a main feature. You can't really program with it or do complicated stuff, and all you can do is save regular commands to a file. To show you this, I will demonstrate how to deauth a specific mac address using a script. The only caveat here is that you need to know the channel. First, we're going to create a file on the ESP using: <br>
