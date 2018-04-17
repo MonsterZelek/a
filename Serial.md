@@ -1,5 +1,21 @@
 # Serial Usage
-A collection of small descriptions, tips and tutorials on how to use the serial command line interface.  
+
+1) Connect the ESP8266 board to your computer. 
+2) Open Arduino, go to `Tools` -> `Port` and select the correct serial port.  
+![PICTURE How-to-serial-0](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/howto_serial_0.jpg)
+3) Go to `Tools` and click on `Serial Monitor`
+![PICTURE How-to-serial-1](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/howto_serial_1.jpg)
+4) Select `Newline` and `115200` as baudrate
+![PICTURE How-to-serial-2](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/howto_serial_2.jpg)
+5) ...
+![PICTURE How-to-serial-3](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/howto_serial_3.jpg)
+6) Profit!
+![PICTURE How-to-serial-4](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/howto_serial_4.jpg)
+
+You can find a list with all serial commands [here](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md).  
+
+
+**Here is collection of small descriptions, tips and tutorials on how to use the serial command line interface.**  
 
 **Overview**
 - [Escaping spaces](#escaping-spaces)
