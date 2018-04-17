@@ -2,21 +2,21 @@
 A collection of small descriptions, tips and tutorials on how to use the serial command line interface.  
 
 **Overview**
-- [Escaping spaces](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#escaping-spaces)
-- [Deauth All](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#deauth-all)
-- [Change Mac Address](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#change-mac-address)
-- [Attack Timeout](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#attack-timeout)
-- [Combine Serial Commands](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#combine-serial-commands)
-- [Random Mode](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#random-mode)
-- [Continuous Mode](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#continuous-mode)
-- [SPIFFS](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#spiffs)
-- [Load and Save](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#load-and-save)
-- [Autostart Script](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#autostart-script)
-- [Improve packet rate](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#improve-packet-rate)
-- [Upload Settings](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#upload-settings)
-- [Upload to SPIFFS](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#upload-to-spiffs)
-- [Finding COM Port](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#finding-com-port)
-- [Removing Deauther](https://github.com/spacehuhn/esp8266_deauther/wiki/Serial-Usage#removing-deauther)
+- [Escaping spaces](#escaping-spaces)
+- [Deauth All](#deauth-all)
+- [Change Mac Address](#change-mac-address)
+- [Attack Timeout](#attack-timeout)
+- [Combine Serial Commands](#combine-serial-commands)
+- [Random Mode](#random-mode)
+- [Continuous Mode](#continuous-mode)
+- [SPIFFS](#spiffs)
+- [Load and Save](#load-and-save)
+- [Autostart Script](#autostart-script)
+- [Improve packet rate](#improve-packet-rate)
+- [Upload Settings](#upload-settings)
+- [Upload to SPIFFS](#upload-to-spiffs)
+- [Finding COM Port](#finding-com-port)
+- [Removing Deauther](#removing-deauther)
 
 ## Escaping spaces
 In the serial interface, commands and parameters are divided by spaces.  
