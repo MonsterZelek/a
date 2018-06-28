@@ -1,4 +1,8 @@
 # ❓ FAQ
+
+![Please don't](https://pbs.twimg.com/media/Dgn7wrnV4AEJZqr.jpg)
+
+
 **Overview**
 - [How to do a Reset / I forgot the password](#how-to-do-a-reset)
 - [5GHz Support](#5ghz-support)
