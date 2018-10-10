@@ -42,6 +42,11 @@
 - [Error writing/saving/reading file](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#error-writingsavingreading-file)
 
 ### 6. [Projects](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects)
+- [Deauthing Sandals](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects#deauthing-sandals)
+- [Drone Hacking a FAKE Makerspace](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects#drone-hacking-a-fake-makerspace)
+- [Deauther Magnet Box for Fridge](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects#deauther-magnet-box-for-fridge)
+- [Deauth Detector with 10W RGB](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects#deauth-detector-with-10w-rgb)
+- [Pwned the pwner](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects#pwned-the-pwner)
 
 ### 7. [Settings](https://github.com/spacehuhn/esp8266_deauther/blob/master/settings.md)
 
