@@ -1,12 +1,12 @@
 A collection of cool projects people made with the ESP8266 Deauther.  
-I hope this gives some inspiration and motivation to make/hack something together yourself :)
-If you have cool projet that isn't listed here, tweet me [@spacehun](http://github.com/spacehuhn/) and I will have a look at it.
+I hope this gives some inspiration and motivation to make/hack something together yourself :)  
+If you have cool projet that isn't listed here, let me know to add it by tweeting me [@spacehun](http://github.com/spacehuhn/)!
 
-- [Deauthing Sandals]()
-- [Drone Hacking a FAKE Makerspace]()
-- [Deauther Magnet Box for Fridge]()
-- [Deauth Detector with 10W RGB]()
-- [Pwned the pwner]()
+- [Deauthing Sandals](#deauthing-sandals)
+- [Drone Hacking a FAKE Makerspace](#drone-hacking-a-fake-makerspace)
+- [Deauther Magnet Box for Fridge](#deauther-magnet-box-for-fridge)
+- [Deauth Detector with 10W RGB](#deauth-detector-with-10w-rgb)
+- [Pwned the pwner](#pwned-the-pwner)
 
 ## Deauthing Sandals
 Becky Button [@einsteinunicorn](https://twitter.com/einsteinunicorn) in collaboration with Naomi Wu [@RealSexyCyborg](https://twitter.com/RealSexyCyborg) designed and 3D printed a sandal. They put the ESP8266 Adafruit Feather HUZZAH in it, together with a LiPo battery to power it. 
