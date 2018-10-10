@@ -29,7 +29,7 @@
 - [Why is there no Packet-Monitor/Deauth-Detector in the web interface?](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#why-is-there-no-packet-monitordeauth-detector-in-the-web-interface)
 - [How to compile .bin files yourself](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#how-to-compile-bin-files-yourself)
 - [Drivers](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#drivers)
-- [Fix crashed](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#fix-crashes)
+- [Fix crashes](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#fix-crashes)
 - [Not able to connect to Access Point](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#not-able-to-connect-to-access-point)
 - [Removing Deauther](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#removing-deauther)
 - [espcom error](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#espcom-error)
