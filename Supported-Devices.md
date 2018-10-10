@@ -6,6 +6,13 @@ The ESP32 is **not** supported!
 
 **Here are some of the most used boards for this project**
 
+- [DSTIKE Boards](#dstike-boards)
+- [List of supplies](#list-of-supplies)
+- [NodeMCU](#nodemcu)
+- [Wemos D1 mini](#wemos-d1-mini)
+- [Adafruit HUZZAH ESP8266](#adafruit-huzzah-esp8266)
+- [WARNING - Fake Boards!](#warning---fake-boards)
+
 ## DSTIKE Boards
 ![PICTURE DSTIKE Deauther OLED Board](https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/DSTIKE_Deauther_Board.jpg)
 
