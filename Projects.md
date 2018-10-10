@@ -1,4 +1,8 @@
-A collection of cool projects people made with the ESP8266 Deauther.  
+# Projects
+
+**A collection of cool projects people made with the ESP8266 Deauther.**
+
+
 I hope this gives some inspiration and motivation to make/hack something together yourself :)  
 If you have cool projet that isn't listed here, let me know to add it by tweeting me [@spacehun](http://github.com/spacehuhn/)!
 
