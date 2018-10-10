@@ -15,6 +15,11 @@
 - [Installation Tips and Tricks](https://github.com/spacehuhn/esp8266_deauther/wiki/Installation#installation-tips-and-tricks)
 
 ### 3. [Setup Display & Buttons](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons)
+- [Before you continue](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons#before-you-continue)
+- [What you need](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons#what-you-need)
+- [Wire everything up](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons#wire-everything-up)
+- [Adjust code](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons#adjust-code)
+- [Testing everything](https://github.com/spacehuhn/esp8266_deauther/wiki/Setup-Display-&-Buttons#testing-everything)
 
 ### 4. [Usage](https://github.com/spacehuhn/esp8266_deauther/wiki/Usage)
 - [Web](https://github.com/spacehuhn/esp8266_deauther/wiki/Web)
@@ -29,7 +34,7 @@
 - [Why is there no Packet-Monitor/Deauth-Detector in the web interface?](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#why-is-there-no-packet-monitordeauth-detector-in-the-web-interface)
 - [How to compile .bin files yourself](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#how-to-compile-bin-files-yourself)
 - [Drivers](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#drivers)
-- [Fix crashes](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#fix-crashes)
+- [Fix crashed](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#fix-crashes)
 - [Not able to connect to Access Point](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#not-able-to-connect-to-access-point)
 - [Removing Deauther](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#removing-deauther)
 - [espcom error](https://github.com/spacehuhn/esp8266_deauther/wiki/FAQ#espcom-error)
