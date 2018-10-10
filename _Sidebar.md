@@ -2,6 +2,12 @@
 ### 0. [Home](https://github.com/spacehuhn/esp8266_deauther/wiki)
 
 ### 1. [Supported Devices](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices)
+- [DSTIKE Boards](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices#dstike-boards)
+- [List of supplies](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices#list-of-supplies)
+- [NodeMCU](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices#nodemcu)
+- [Wemos D1 mini](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices#wemos-d1-mini)
+- [Adafruit HUZZAH ESP8266](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices#adafruit-huzzah-esp8266)
+- [WARNING - Fake Boards!](https://github.com/spacehuhn/esp8266_deauther/wiki/Supported-Devices#warning---fake-boards)
 
 ### 2. [Installation](https://github.com/spacehuhn/esp8266_deauther/wiki/Installation)
 - [Flashing the firmware .bin file](https://github.com/spacehuhn/esp8266_deauther/wiki/Installation#flashing-the-firmware-bin-file)
