@@ -48,10 +48,10 @@
 - [Deauth Detector with 10W RGB](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects#deauth-detector-with-10w-rgb)
 - [Pwned the pwner](https://github.com/spacehuhn/esp8266_deauther/wiki/Projects#pwned-the-pwner)
 
-### 7. [Settings](https://github.com/spacehuhn/esp8266_deauther/blob/master/settings.md)
+### 7. [Writing Scripts](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts)
 
-### 8. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md)
+### 8. [Development](https://github.com/spacehuhn/esp8266_deauther/wiki/Development)
 
-### 9. [Writing Scripts](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts)
+### 9. [Settings](https://github.com/spacehuhn/esp8266_deauther/blob/master/settings.md)
 
-### 10. [Development](https://github.com/spacehuhn/esp8266_deauther/wiki/Development)
+### 10. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md)
