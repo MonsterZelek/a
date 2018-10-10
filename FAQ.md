@@ -10,7 +10,7 @@
 - [Why is there no Packet-Monitor/Deauth-Detector in the web interface?](#why-is-there-no-packet-monitordeauth-detector-in-the-web-interface)
 - [How to compile .bin files yourself](#how-to-compile-bin-files-yourself)
 - [Drivers](#drivers)
-- [Fix crashed](#fix-crashes)
+- [Fix crashes](#fix-crashes)
 - [Not able to connect to Access Point](#not-able-to-connect-to-access-point)
 - [Removing Deauther](#removing-deauther)
 - [espcom error](#espcom-error)
