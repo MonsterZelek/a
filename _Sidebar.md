@@ -50,8 +50,6 @@
 
 ### 7. [Writing Scripts](https://github.com/spacehuhn/esp8266_deauther/wiki/Writing-Scripts)
 
-### 8. [Development](https://github.com/spacehuhn/esp8266_deauther/wiki/Development)
+### 8. [Settings](https://github.com/spacehuhn/esp8266_deauther/blob/master/settings.md)
 
-### 9. [Settings](https://github.com/spacehuhn/esp8266_deauther/blob/master/settings.md)
-
-### 10. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md)
+### 9. [Serial Commands](https://github.com/spacehuhn/esp8266_deauther/blob/master/serialcommands.md)
